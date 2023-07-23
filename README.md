@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Natalie</h1>
-<h3 align="center">An aspiring machine learning engineer</h3>
+<h1 align="left">My name is Natalie</h1>
+<h3 align="left">An aspiring machine learning engineer</h3>
 
 - 🌱 I’m currently learning **Machine Learning with Tensorflow**
 
