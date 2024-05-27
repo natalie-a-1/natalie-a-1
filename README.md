@@ -1,10 +1,5 @@
 <h1 align="left">My name is Natalie</h1>
-<h3 align="left">An aspiring machine learning engineer</h3>
-
-- 🌱 I’m currently learning **Machine Learning with Tensorflow**
-
-- 📫 How to reach me **natalie.a.hill-1@ou.edu**
-
+<h3 align="left">A Product Manager</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
