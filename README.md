@@ -3,10 +3,7 @@
 > <div align="left">
 >  DeFi & Blockchain Enthusiast
 > <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" height="16" alt="ethereum logo" />
->
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="16" alt="solidity logo" />
->
-> <img src="https://cdn.simpleicons.org/web3dotjs/F16822" height="16" alt="web3js logo" />
+
 > </div>
 
 Building the future of decentralized finance. Passionate about blockchain technology, smart contracts, and creating user-centric DeFi products that drive adoption.
@@ -15,7 +12,7 @@ Building the future of decentralized finance. Passionate about blockchain techno
 ###
 
 <div align="left">
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" alt="ethereum logo" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 
