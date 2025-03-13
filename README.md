@@ -1,14 +1,13 @@
 # My name is Natalie
 
 > DeFi & Blockchain Enthusiast
-> 
-<div align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" height="40" alt="ethereum logo" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo" />
-
-<img src="https://cdn.simpleicons.org/web3dotjs/F16822" height="40" alt="web3js logo" />
-</div>
+> <div align="left">
+> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" height="20" alt="ethereum logo" />
+>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="20" alt="solidity logo" />
+>
+> <img src="https://cdn.simpleicons.org/web3dotjs/F16822" height="20" alt="web3js logo" />
+> </div>
 
 Building the future of decentralized finance. Passionate about blockchain technology, smart contracts, and creating user-centric DeFi products that drive adoption.
 
