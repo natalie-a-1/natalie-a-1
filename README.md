@@ -1,8 +1,8 @@
 # My name is Natalie
 >
 > <div align="left">
->  <strong>DeFi & Blockchain Enthusiast</strong>
-> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" height="19" alt="ethereum logo" />
+ <strong>DeFi & Blockchain Enthusiast</strong>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" height="19" alt="ethereum logo" />
 
 > </div>
 
