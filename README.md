@@ -2,7 +2,7 @@
 >
 > <div align="left">
 >  DeFi & Blockchain Enthusiast
-> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" height="16" alt="ethereum logo" />
+> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" height="19" alt="ethereum logo" />
 
 > </div>
 
