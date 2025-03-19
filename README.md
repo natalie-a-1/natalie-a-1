@@ -1,11 +1,11 @@
 # My name is Natalie
 >
-> <div align="left" style="display: flex; justify-content: space-between; align-items: center;">
+> <div align="left" style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
 >   <div>
 >     <strong>DeFi & Blockchain Enthusiast</strong>
 >     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" height="19" alt="ethereum logo" style="margin-top: 4px;" />
 >   </div>
->   <a href="https://github.com/sponsors/nataliehill1" target="_blank">
+>   <a href="https://github.com/sponsors/natalie-a-1" target="_blank" style="margin-top: 8px;">
 >     <img src="https://img.shields.io/static/v1?message=Sponsor&logo=githubsponsors&label=&color=EA4AAA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github sponsors logo" />
 >   </a>
 > </div>
