@@ -1,4 +1,4 @@
-# My name is Natalie
+# My name is Nat
 >
 > <div align="left">
 >   <strong>DeFi & Blockchain Enthusiast</strong>
